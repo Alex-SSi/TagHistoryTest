@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\TagHistory\TagHistory\bin\Debug\TagHistory.exe.config
+C:\Users\Alex\Desktop\TagHistory\TagHistory\bin\Debug\TagHistory.exe
+C:\Users\Alex\Desktop\TagHistory\TagHistory\bin\Debug\TagHistory.pdb
+C:\Users\Alex\Desktop\TagHistory\TagHistory\obj\Debug\TagHistory.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\TagHistory\TagHistory\obj\Debug\TagHistory.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\TagHistory\TagHistory\obj\Debug\TagHistory.exe
+C:\Users\Alex\Desktop\TagHistory\TagHistory\obj\Debug\TagHistory.pdb
+C:\Users\Alex\Desktop\TagHistory\TagHistory\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\TagHistory\TagHistory\bin\Debug\Newtonsoft.Json.xml
